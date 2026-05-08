@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandex
+Allow: /
+Crawl-delay: 2
+
+Sitemap: https://vpn-dlya-rossii.github.io/sitemap.xml
+Host: vpn-dlya-rossii.github.io
