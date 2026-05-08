@@ -5,5 +5,5 @@ User-agent: Yandex
 Allow: /
 Crawl-delay: 2
 
-Sitemap: https://vpn-dlya-rossii.github.io/sitemap.xml
+Sitemap: https://vpn-dlya-rossii.vercel.app/sitemap.xml
 Host: vpn-dlya-rossii.github.io
